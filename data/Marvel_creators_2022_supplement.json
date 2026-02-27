@@ -1,0 +1,3867 @@
+{
+  "options": {
+    "type": "undirected",
+    "multi": false,
+    "allowSelfLoops": false
+  },
+  "attributes": {},
+  "nodes": [
+    {
+      "key": "29",
+      "attributes": {
+        "label": "Yoshitaka Amano",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/29/yoshitaka_amano?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8296",
+      "attributes": {
+        "label": "Dan Berman",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8296/dan_berman?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 6,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "142",
+      "attributes": {
+        "label": "Rod Whigham",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/142/rod_whigham?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "205",
+      "attributes": {
+        "label": "M. Ryan",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/205/m_ryan?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "242",
+      "attributes": {
+        "label": "Judith OBrien",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/242/judith_obrien?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "254",
+      "attributes": {
+        "label": "James Sturm",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/254/james_sturm?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8505",
+      "attributes": {
+        "label": "Frank Fosco",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8505/frank_fosco?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8209",
+      "attributes": {
+        "label": "Chris Arrant",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8209/chris_arrant?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "370",
+      "attributes": {
+        "label": "Eric Jerome Dickey",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/370/eric_jerome_dickey?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 7,
+        "writer": 7,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "382",
+      "attributes": {
+        "label": "Rik Levins",
+        "image": "./images/creators/382.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc37f699c13a.jpg",
+        "url": "http://marvel.com/comics/creators/382/rik_levins?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "387",
+      "attributes": {
+        "label": "Bill Black",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/387/bill_black?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "414",
+      "attributes": {
+        "label": "Colin Mitchell",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/414/colin_mitchell?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "424",
+      "attributes": {
+        "label": "Udon Comics",
+        "image": "./images/creators/424.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc5eb9c4f6b4.jpg",
+        "url": "http://marvel.com/comics/creators/424/udon_comics?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 1,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8677",
+      "attributes": {
+        "label": "Janice Parker",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8677/janice_parker?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8698",
+      "attributes": {
+        "label": "Jason Starr",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8698/jason_starr?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 20,
+        "writer": 20,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8795",
+      "attributes": {
+        "label": "John Miller",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8795/john_miller?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 22,
+        "writer": 22,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "606",
+      "attributes": {
+        "label": "Tsutomu Nihei",
+        "image": "./images/creators/606.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bc32ea7a9abd.jpg",
+        "url": "http://marvel.com/comics/creators/606/tsutomu_nihei?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 4,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "623",
+      "attributes": {
+        "label": "Watson Jemas",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/623/watson_jemas?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8821",
+      "attributes": {
+        "label": "Jordan Raskin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8821/jordan_raskin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "630",
+      "attributes": {
+        "label": "Rai Lai",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/630/rai_lai?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "633",
+      "attributes": {
+        "label": "Weir DeFilippis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/633/weir_defilippis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "702",
+      "attributes": {
+        "label": "Sheldon Allen",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/702/sheldon_allen?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "715",
+      "attributes": {
+        "label": "Petar Bridges",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/715/petar_bridges?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "720",
+      "attributes": {
+        "label": "Pia Guerra",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/720/pia_guerra?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "722",
+      "attributes": {
+        "label": "Jason Miller",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/722/jason_miller?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "743",
+      "attributes": {
+        "label": "Paul Di Filippo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/743/paul_di_filippo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "786",
+      "attributes": {
+        "label": "Ricardo Mays",
+        "image": "./images/creators/786.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc68b6569326.jpg",
+        "url": "http://marvel.com/comics/creators/786/ricardo_mays?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "811",
+      "attributes": {
+        "label": "Richard K. Morgan",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/811/richard_k_morgan?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "836",
+      "attributes": {
+        "label": "Byron Penaranda",
+        "image": "./images/creators/836.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
+        "url": "http://marvel.com/comics/creators/836/byron_penaranda?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "9042",
+      "attributes": {
+        "label": "Maria-Emiko Macuaga",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/9042/maria-emiko_macuaga?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "859",
+      "attributes": {
+        "label": "Karl Zinsmeister",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/859/karl_zinsmeister?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "900",
+      "attributes": {
+        "label": "Barry Reese",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/900/barry_reese?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "898",
+      "attributes": {
+        "label": "Bill Lentz",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/898/bill_lentz?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "9117",
+      "attributes": {
+        "label": "Michael Zagari",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/9117/michael_zagari?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "950",
+      "attributes": {
+        "label": "Ed Herron",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/950/ed_herron?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1000",
+      "attributes": {
+        "label": "John Burns",
+        "image": "./images/creators/1000.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc5f4bca2c90.jpg",
+        "url": "http://marvel.com/comics/creators/1000/john_burns?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1021",
+      "attributes": {
+        "label": "Doug Alexander",
+        "image": "./images/creators/1021.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc5f8186ff90.jpg",
+        "url": "http://marvel.com/comics/creators/1021/doug_alexander?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1048",
+      "attributes": {
+        "label": "Luna Brothers",
+        "image": "./images/creators/1048.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5f25c0e45b.jpg",
+        "url": "http://marvel.com/comics/creators/1048/luna_brothers?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1060",
+      "attributes": {
+        "label": "Steve Robertson",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1060/steve_robertson?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 7,
+        "writer": 7,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1061",
+      "attributes": {
+        "label": "Mike Thibodeaux",
+        "image": "./images/creators/1061.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/4bc5bfcae05fb.jpg",
+        "url": "http://marvel.com/comics/creators/1061/mike_thibodeaux?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 8,
+        "writer": 0,
+        "artist": 8,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1086",
+      "attributes": {
+        "label": "Robert Fleming",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1086/robert_fleming?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1096",
+      "attributes": {
+        "label": "Eric Wight",
+        "image": "./images/creators/1096.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc5f82eb82ce.jpg",
+        "url": "http://marvel.com/comics/creators/1096/eric_wight?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1125",
+      "attributes": {
+        "label": "Shannon Gallant",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1125/shannon_gallant?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1139",
+      "attributes": {
+        "label": "Alexander Irvine",
+        "image": "./images/creators/1139.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bb44b0d1a065.jpg",
+        "url": "http://marvel.com/comics/creators/1139/alexander_irvine?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 12,
+        "writer": 12,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1149",
+      "attributes": {
+        "label": "Laurell K. Hamilton",
+        "image": "./images/creators/1149.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb3f8814b422.jpg",
+        "url": "http://marvel.com/comics/creators/1149/laurell_k_hamilton?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1150",
+      "attributes": {
+        "label": "Stacie M. Ritchie",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1150/stacie_m_ritchie?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1151",
+      "attributes": {
+        "label": "Roland Bernard Brown",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1151/roland_bernard_brown?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1153",
+      "attributes": {
+        "label": "Miguel Montenegro",
+        "image": "./images/creators/1153.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc4c9608f4c2.jpg",
+        "url": "http://marvel.com/comics/creators/1153/miguel_montenegro?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1201",
+      "attributes": {
+        "label": "Louise Ann Gikow",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1201/louise_ann_gikow?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "9393",
+      "attributes": {
+        "label": "Salgood Sam",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/9393/salgood_sam?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1214",
+      "attributes": {
+        "label": "Elliot S. Maggin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1214/elliot_s_maggin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1238",
+      "attributes": {
+        "label": "Jack Sparling",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1238/jack_sparling?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 11,
+        "writer": 0,
+        "artist": 11,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1259",
+      "attributes": {
+        "label": "Virgilio Redondo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1259/virgilio_redondo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1324",
+      "attributes": {
+        "label": "Carla Conway",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1324/carla_conway?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1346",
+      "attributes": {
+        "label": "Lee Hammock",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1346/lee_hammock?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1347",
+      "attributes": {
+        "label": "Brett Lewis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1347/brett_lewis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1349",
+      "attributes": {
+        "label": "Ed Lee",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1349/ed_lee?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1350",
+      "attributes": {
+        "label": "Jean Moebius Giraud",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1350/jean_moebius_giraud?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1363",
+      "attributes": {
+        "label": "George R. r. Martin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1363/george_r_r_martin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 12,
+        "writer": 12,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1387",
+      "attributes": {
+        "label": "Adriano Batista",
+        "image": "./images/creators/1387.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5a56aa84d5.jpg",
+        "url": "http://marvel.com/comics/creators/1387/adriano_batista?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 0,
+        "artist": 5,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1389",
+      "attributes": {
+        "label": "Fabiano Silva Neves",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1389/fabiano_silva_neves?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 0,
+        "artist": 6,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1399",
+      "attributes": {
+        "label": "Michael Lent",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1399/michael_lent?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1424",
+      "attributes": {
+        "label": "James Fenimore Cooper",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1424/james_fenimore_cooper?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1429",
+      "attributes": {
+        "label": "Vitor Ishimura",
+        "image": "./images/creators/1429.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc4c95bc0d18.jpg",
+        "url": "http://marvel.com/comics/creators/1429/vitor_ishimura?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1446",
+      "attributes": {
+        "label": "Sid Greene",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1446/sid_greene?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 0,
+        "artist": 6,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1453",
+      "attributes": {
+        "label": "Allen Simon",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1453/allen_simon?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 10,
+        "writer": 0,
+        "artist": 10,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1460",
+      "attributes": {
+        "label": "Harold DeLay",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1460/harold_delay?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1469",
+      "attributes": {
+        "label": "Bill Finger",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1469/bill_finger?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 6,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1481",
+      "attributes": {
+        "label": "Hank Chapman",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1481/hank_chapman?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1488",
+      "attributes": {
+        "label": "Ray Houlihan",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1488/ray_houlihan?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1510",
+      "attributes": {
+        "label": "Ray Cummings",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1510/ray_cummings?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1511",
+      "attributes": {
+        "label": "Mac Raboy",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1511/mac_raboy?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1512",
+      "attributes": {
+        "label": "Zac Gabel",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1512/zac_gabel?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1515",
+      "attributes": {
+        "label": "Vic Dowd",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1515/vic_dowd?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1518",
+      "attributes": {
+        "label": "George Mandell",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1518/george_mandell?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1527",
+      "attributes": {
+        "label": "Jay Scott Pike",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1527/jay_scott_pike?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1547",
+      "attributes": {
+        "label": "H.e. Huntley",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1547/he_huntley?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1627",
+      "attributes": {
+        "label": "Mort Lawrence",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1627/mort_lawrence?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1641",
+      "attributes": {
+        "label": "Mort Meskin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1641/mort_meskin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1675",
+      "attributes": {
+        "label": "Howard Post",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1675/howard_post?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1676",
+      "attributes": {
+        "label": "Gantz",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1676/gantz?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1709",
+      "attributes": {
+        "label": "Johnny Craig",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1709/johnny_craig?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 0,
+        "artist": 5,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1791",
+      "attributes": {
+        "label": "Script Pages",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1791/script_pages?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10071",
+      "attributes": {
+        "label": "THOMAS PICCIRILLI",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10071/thomas_piccirilli?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10098",
+      "attributes": {
+        "label": "Bob Bolling",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10098/bob_bolling?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 2,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "1912",
+      "attributes": {
+        "label": "Gracine Tanaka",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/1912/gracine_tanaka?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10132",
+      "attributes": {
+        "label": "Allan Jefferson Souza",
+        "image": "./images/creators/10132.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb3ef9d51b6a.jpg",
+        "url": "http://marvel.com/comics/creators/10132/allan_jefferson_souza?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10171",
+      "attributes": {
+        "label": "Joshua Fine",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10171/joshua_fine?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10178",
+      "attributes": {
+        "label": "Sean T. Collins",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10178/sean_t_collins?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10189",
+      "attributes": {
+        "label": "ALBERTO VARANDA",
+        "image": "./images/creators/10189.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4badaed9bdcd0.jpg",
+        "url": "http://marvel.com/comics/creators/10189/alberto_varanda?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10190",
+      "attributes": {
+        "label": "ANGE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10190/ange?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2029",
+      "attributes": {
+        "label": "Winslow Mortimer",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2029/winslow_mortimer?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2148",
+      "attributes": {
+        "label": "Title",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2148/title?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10388",
+      "attributes": {
+        "label": "Steve Stiles",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10388/steve_stiles?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10389",
+      "attributes": {
+        "label": "Ben Brown",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10389/ben_brown?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 3,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10390",
+      "attributes": {
+        "label": "Mort Gerberg",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10390/mort_gerberg?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10393",
+      "attributes": {
+        "label": "Sylvain Guinebaud",
+        "image": "./images/creators/10393.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4bac56efe2d5a.jpg",
+        "url": "http://marvel.com/comics/creators/10393/sylvain_guinebaud?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2388",
+      "attributes": {
+        "label": "Brian Pelletier",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2388/brian_pelletier?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2527",
+      "attributes": {
+        "label": "Jonathan Barron",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2527/jonathan_barron?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10778",
+      "attributes": {
+        "label": "EMMA MARIA RIOS MANEIRO",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10778/emma_maria_rios_maneiro?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2709",
+      "attributes": {
+        "label": "Vince Mielcarek",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2709/vince_mielcarek?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10915",
+      "attributes": {
+        "label": "Romina Moranelli",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10915/romina_moranelli?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2725",
+      "attributes": {
+        "label": "Randy Lofficier",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2725/randy_lofficier?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 24,
+        "writer": 24,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "10991",
+      "attributes": {
+        "label": "STAN LEE DBA SL PRODUCTIONS",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/10991/stan_lee_dba_sl_productions?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11045",
+      "attributes": {
+        "label": "Eric Cartier",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11045/eric_cartier?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2884",
+      "attributes": {
+        "label": "Mimi Gold",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2884/mimi_gold?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11122",
+      "attributes": {
+        "label": "Gabriel Ba",
+        "image": "./images/creators/11122.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc5c64248773.jpg",
+        "url": "http://marvel.com/comics/creators/11122/gabriel_ba?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "2955",
+      "attributes": {
+        "label": "Tom Field",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/2955/tom_field?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11197",
+      "attributes": {
+        "label": "Vincent D. Hernandez",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11197/vincent_d_hernandez?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11204",
+      "attributes": {
+        "label": "Fabio Moon",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11204/fabio_moon?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 0,
+        "artist": 5,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3057",
+      "attributes": {
+        "label": "Dave Chlystek",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3057/dave_chlystek?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3075",
+      "attributes": {
+        "label": "Robert Kanigher",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3075/robert_kanigher?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3134",
+      "attributes": {
+        "label": "Irv Wesley",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3134/irv_wesley?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3140",
+      "attributes": {
+        "label": "Steve Moore",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3140/steve_moore?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11362",
+      "attributes": {
+        "label": "NICOLA MERANTE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11362/nicola_merante?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11414",
+      "attributes": {
+        "label": "Clark Gregg",
+        "image": "./images/creators/11414.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/522e0cf70ffd4.jpg",
+        "url": "http://marvel.com/comics/creators/11414/clark_gregg?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11440",
+      "attributes": {
+        "label": "George Parlett",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11440/george_parlett?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11441",
+      "attributes": {
+        "label": "James Bleach",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11441/james_bleach?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3374",
+      "attributes": {
+        "label": "Jeff Aclin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3374/jeff_aclin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3386",
+      "attributes": {
+        "label": "Sanho Kim",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3386/sanho_kim?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3393",
+      "attributes": {
+        "label": "Sven Larsen",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3393/sven_larsen?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11614",
+      "attributes": {
+        "label": "Rafa Lopez Blanco",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11614/rafa_lopez_blanco?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3521",
+      "attributes": {
+        "label": "Cindy Martin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3521/cindy_martin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11725",
+      "attributes": {
+        "label": "Connor Willumsen",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11725/connor_willumsen?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 1,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11791",
+      "attributes": {
+        "label": "Justin F. Aclin",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11791/justin_f_aclin?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3612",
+      "attributes": {
+        "label": "Nghia Lam",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3612/nghia_lam?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3692",
+      "attributes": {
+        "label": "Freddy Mendez",
+        "image": "./images/creators/3692.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb6f79a24242.jpg",
+        "url": "http://marvel.com/comics/creators/3692/freddy_mendez?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "11931",
+      "attributes": {
+        "label": "Jeff Lindsay",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/11931/jeff_lindsay?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 11,
+        "writer": 11,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3766",
+      "attributes": {
+        "label": "Malcolm Jones",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3766/malcolm_jones?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3842",
+      "attributes": {
+        "label": "Chris Tsuda",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3842/chris_tsuda?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3843",
+      "attributes": {
+        "label": "Ed Simmons",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3843/ed_simmons?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3878",
+      "attributes": {
+        "label": "Jason Balgobis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/3878/jason_balgobis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "3942",
+      "attributes": {
+        "label": "John Marks",
+        "image": "./images/creators/3942.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c7d24be7d235.jpg",
+        "url": "http://marvel.com/comics/creators/3942/john_marks?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4022",
+      "attributes": {
+        "label": "Arnie Jorgensen",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4022/arnie_jorgensen?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4024",
+      "attributes": {
+        "label": "Joel Thomas",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4024/joel_thomas?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4046",
+      "attributes": {
+        "label": "Allen Im",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4046/allen_im?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4060",
+      "attributes": {
+        "label": "Shon Bury",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4060/shon_bury?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4128",
+      "attributes": {
+        "label": "P. Woods",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4128/p_woods?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4144",
+      "attributes": {
+        "label": "Stan Kay",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4144/stan_kay?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4160",
+      "attributes": {
+        "label": "Steve Mannion",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4160/steve_mannion?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12439",
+      "attributes": {
+        "label": "The Original Writer",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12439/the_original_writer?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12497",
+      "attributes": {
+        "label": "Jim Zubkavich",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12497/jim_zubkavich?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12505",
+      "attributes": {
+        "label": "Allen Nunis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12505/allen_nunis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12509",
+      "attributes": {
+        "label": "Russ Manning",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12509/russ_manning?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12512",
+      "attributes": {
+        "label": "Nicola Scott",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12512/nicola_scott?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12534",
+      "attributes": {
+        "label": "Peet Janes",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12534/peet_janes?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12535",
+      "attributes": {
+        "label": "Edvin Biukovic",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12535/edvin_biukovic?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12543",
+      "attributes": {
+        "label": "Jim Woodring",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12543/jim_woodring?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12559",
+      "attributes": {
+        "label": "Beau Smith",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12559/beau_smith?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12562",
+      "attributes": {
+        "label": "Henry Gilroy",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12562/henry_gilroy?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12571",
+      "attributes": {
+        "label": "Scott Allie",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12571/scott_allie?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12583",
+      "attributes": {
+        "label": "Chris Cerasi",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12583/chris_cerasi?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12586",
+      "attributes": {
+        "label": "Timothy Green II",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12586/timothy_green_ii?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 36,
+        "writer": 0,
+        "artist": 36,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12623",
+      "attributes": {
+        "label": "Bruno Redondo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12623/bruno_redondo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12625",
+      "attributes": {
+        "label": "Tim Siedell",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12625/tim_siedell?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12632",
+      "attributes": {
+        "label": "Anthony Daniels",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12632/anthony_daniels?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12634",
+      "attributes": {
+        "label": "Jim Baikie",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12634/jim_baikie?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12635",
+      "attributes": {
+        "label": "Olivier Vatine",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12635/olivier_vatine?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12637",
+      "attributes": {
+        "label": "Art Wetherell",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12637/art_wetherell?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12654",
+      "attributes": {
+        "label": "Kajo Baldisimo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12654/kajo_baldisimo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12656",
+      "attributes": {
+        "label": "Michael A. Stackpole",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12656/michael_a_stackpole?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12658",
+      "attributes": {
+        "label": "Andrea Chella",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12658/andrea_chella?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12664",
+      "attributes": {
+        "label": "Shin-Ichi Hiromoto",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12664/shin-ichi_hiromoto?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12671",
+      "attributes": {
+        "label": "Toshiki Kudo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12671/toshiki_kudo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 0,
+        "artist": 4,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12676",
+      "attributes": {
+        "label": "J. W. Rinzler",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12676/j_w_rinzler?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12679",
+      "attributes": {
+        "label": "Chris Avellone",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12679/chris_avellone?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12690",
+      "attributes": {
+        "label": "Patrick Blaine",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12690/patrick_blaine?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12691",
+      "attributes": {
+        "label": "Paul Alden",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12691/paul_alden?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12697",
+      "attributes": {
+        "label": "Siya Oum",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12697/siya_oum?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12789",
+      "attributes": {
+        "label": "More",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12789/more?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 2,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12800",
+      "attributes": {
+        "label": "Afu Chan",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12800/afu_chan?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12866",
+      "attributes": {
+        "label": "James Patterson",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12866/james_patterson?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12892",
+      "attributes": {
+        "label": "SI YEON PARK",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12892/si_yeon_park?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12893",
+      "attributes": {
+        "label": "JI EUN PARK",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12893/ji_eun_park?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12894",
+      "attributes": {
+        "label": "JAE SUNG LEE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12894/jae_sung_lee?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12895",
+      "attributes": {
+        "label": "MIN JU LEE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12895/min_ju_lee?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12896",
+      "attributes": {
+        "label": "JAE WOONG LEE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12896/jae_woong_lee?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12897",
+      "attributes": {
+        "label": "Hee Ye Cho",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12897/hee_ye_cho?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12898",
+      "attributes": {
+        "label": "IN YOUNG LEE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12898/in_young_lee?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12899",
+      "attributes": {
+        "label": "Woo Bin Choi",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12899/woo_bin_choi?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12957",
+      "attributes": {
+        "label": "Method Man",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12957/method_man?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12958",
+      "attributes": {
+        "label": "Balak",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12958/balak?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12962",
+      "attributes": {
+        "label": "Charlamagne tha God",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12962/charlamagne_tha_god?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "12973",
+      "attributes": {
+        "label": "Gabby Rivera",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/12973/gabby_rivera?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 13,
+        "writer": 13,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13022",
+      "attributes": {
+        "label": "R.L. Stine",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13022/rl_stine?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 6,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4866",
+      "attributes": {
+        "label": "Tina Chrioproces",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4866/tina_chrioproces?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13084",
+      "attributes": {
+        "label": "Nicholas Kocher",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13084/nicholas_kocher?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4927",
+      "attributes": {
+        "label": "Omar Dogan",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4927/omar_dogan?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13142",
+      "attributes": {
+        "label": "Yusaku Komiyama",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13142/yusaku_komiyama?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "4986",
+      "attributes": {
+        "label": "Robert Louis Stevenson",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/4986/robert_louis_stevenson?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13191",
+      "attributes": {
+        "label": "Charles Nicholas Wojtkoski",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13191/charles_nicholas_wojtkoski?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 0,
+        "artist": 5,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5091",
+      "attributes": {
+        "label": "Robin D. Laws",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5091/robin_d_laws?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 7,
+        "writer": 7,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5126",
+      "attributes": {
+        "label": "Barry Smith",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5126/barry_smith?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 7,
+        "writer": 0,
+        "artist": 7,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5135",
+      "attributes": {
+        "label": "Karl Rusnak",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5135/karl_rusnak?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 6,
+        "writer": 6,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13330",
+      "attributes": {
+        "label": "Jess Ruffner",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13330/jess_ruffner?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5179",
+      "attributes": {
+        "label": "Seth Biederman",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5179/seth_biederman?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13443",
+      "attributes": {
+        "label": "Dio Neves",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13443/dio_neves?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13522",
+      "attributes": {
+        "label": "Charles Viola",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13522/charles_viola?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13599",
+      "attributes": {
+        "label": "Ken Siu-Chong",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13599/ken_siu-chong?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13600",
+      "attributes": {
+        "label": "Alan Tam",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13600/alan_tam?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13620",
+      "attributes": {
+        "label": "Shea Anton Pensa",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13620/shea_anton_pensa?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13671",
+      "attributes": {
+        "label": "Mattea Di Lulis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13671/mattea_di_lulis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5521",
+      "attributes": {
+        "label": "George Lucas",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5521/george_lucas?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 10,
+        "writer": 10,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13757",
+      "attributes": {
+        "label": "Ram. V.",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13757/ram_v.?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 53,
+        "writer": 53,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13772",
+      "attributes": {
+        "label": "Tom Virkaitis",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13772/tom_virkaitis?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5591",
+      "attributes": {
+        "label": "Will Meugniot",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5591/will_meugniot?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13806",
+      "attributes": {
+        "label": "Prudence Shen",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13806/prudence_shen?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5630",
+      "attributes": {
+        "label": "David Vonallman",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5630/david_vonallman?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5632",
+      "attributes": {
+        "label": "Oscar Wilde",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5632/oscar_wilde?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13835",
+      "attributes": {
+        "label": "Dana Perkins",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13835/dana_perkins?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5718",
+      "attributes": {
+        "label": "Alexandre Dumas",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5718/alexandre_dumas?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5723",
+      "attributes": {
+        "label": "Andrew Farago",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5723/andrew_farago?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5731",
+      "attributes": {
+        "label": "Homer",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5731/homer?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 4,
+        "writer": 4,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "13990",
+      "attributes": {
+        "label": "Benjamin Truman",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/13990/benjamin_truman?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "14025",
+      "attributes": {
+        "label": "Al Feldstein",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/14025/al_feldstein?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "14032",
+      "attributes": {
+        "label": "Mike Pellowski",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/14032/mike_pellowski?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "5963",
+      "attributes": {
+        "label": "Malibu Hues",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/5963/malibu_hues?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "14180",
+      "attributes": {
+        "label": "Gunji",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/14180/gunji?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "14181",
+      "attributes": {
+        "label": "Shuizhu",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/14181/shuizhu?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6150",
+      "attributes": {
+        "label": "Christina Z",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6150/christina_z?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 5,
+        "writer": 5,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "14466",
+      "attributes": {
+        "label": "Marco Itri",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/14466/marco_itri?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6343",
+      "attributes": {
+        "label": "Tom Scheuer",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6343/tom_scheuer?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6345",
+      "attributes": {
+        "label": "Dan De Carlo",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6345/dan_de_carlo?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 54,
+        "writer": 0,
+        "artist": 54,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6346",
+      "attributes": {
+        "label": "Jason Lethcoe",
+        "image": "./images/creators/6346.jpg",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c3628540b7e8.jpg",
+        "url": "http://marvel.com/comics/creators/6346/jason_lethcoe?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6473",
+      "attributes": {
+        "label": "Juan Ortiz",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6473/juan_ortiz?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6731",
+      "attributes": {
+        "label": "Carl Burgos Bill Everett",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6731/carl_burgos_bill_everett?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6767",
+      "attributes": {
+        "label": "Julianna Jones",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6767/julianna_jones?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6831",
+      "attributes": {
+        "label": "Wendy Pini",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6831/wendy_pini?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "6935",
+      "attributes": {
+        "label": "Kev F Sutherland",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/6935/kev_f_sutherland?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7058",
+      "attributes": {
+        "label": "Naomi Basner",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7058/naomi_basner?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7263",
+      "attributes": {
+        "label": "HERMAN MELVILLE",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7263/herman_melville?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7267",
+      "attributes": {
+        "label": "JAMIE TOST",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7267/jamie_tost?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7330",
+      "attributes": {
+        "label": "Dave Simms",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7330/dave_simms?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7340",
+      "attributes": {
+        "label": "Larry Antonette",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7340/larry_antonette?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7626",
+      "attributes": {
+        "label": "John Kuramoto",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7626/john_kuramoto?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 1,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7728",
+      "attributes": {
+        "label": "FRANCIS PORTENA",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7728/francis_portena?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 1,
+        "writer": 0,
+        "artist": 1,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "7988",
+      "attributes": {
+        "label": "Alan Evans",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/7988/alan_evans?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 0,
+        "artist": 3,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8025",
+      "attributes": {
+        "label": "Andres Coelho",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8025/andres_coelho?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8042",
+      "attributes": {
+        "label": "Angelo Decesare",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8042/angelo_decesare?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 2,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8168",
+      "attributes": {
+        "label": "Bruce Canwell",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8168/bruce_canwell?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 3,
+        "writer": 3,
+        "artist": 0,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    },
+    {
+      "key": "8187",
+      "attributes": {
+        "label": "Carlos Alberto Fernandez Urbano",
+        "image": "./images/not_available.gif",
+        "image_url": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+        "url": "http://marvel.com/comics/creators/8187/carlos_alberto_fernandez_urbano?utm_campaign=apiRef&utm_source=c216c796291671a97f0486408c4d6d02",
+        "stories": 2,
+        "writer": 0,
+        "artist": 2,
+        "sources": [
+          "marvel_official_2022"
+        ],
+        "source": "marvel_official_2022"
+      }
+    }
+  ],
+  "edges": []
+}
